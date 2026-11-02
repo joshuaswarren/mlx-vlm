@@ -1817,3 +1817,7 @@ pip install "mlx-vlm[train]"
 ## LoRA & QLoRA
 
 To learn more about LoRA, please refer to the [LoRA.md](./mlx_vlm/LORA.MD) file.
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
